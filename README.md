@@ -6,6 +6,7 @@
 -s或-d必须输入，其他不输入则默认为人脸识别，最小识别次数为5
 
 eg: 
+
 python a.py -s /shipin/1.mp4 -f 2 -n 5
 
 python a.py -d -f 2 -n 5
